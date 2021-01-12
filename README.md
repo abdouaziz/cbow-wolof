@@ -18,7 +18,7 @@ These instructions will get you a copy of the project up and running on your loc
 install Streamlit by typing this code below 
 
 ```
- pip install streamlit
+ $ pip install streamlit
 ```
 
 ## Running the tests
