@@ -7,6 +7,7 @@ from matplotlib import pyplot
 from utils import compute_pca
 import time 
 import os 
+nltk.download('punkt')
 
 
 st.title("CBOW : WOLOF - FRENCH- ENGLISH")  
